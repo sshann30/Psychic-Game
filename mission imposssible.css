@@ -1,0 +1,16 @@
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #210428;
+    background: black;
+    z-index: 0;
+    background-image: url(mi5.jpg);
+    width: 100%;
+    height: inherit;
+  }
+  h3 {
+    color: #bb131b; 
+  }
+  
+  h1 {
+      color: #b7743d;
+  }
